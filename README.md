@@ -32,6 +32,21 @@ The detailed requirements for this project can be found on [this page](https://d
 
 - It is the palace where you can check current Job information, also, you could update your current Job information if there are any changes happened.
 
+- In this interface, you can enter the following details:
+
+- Title
+- Company
+- Location (entered as city and state)
+- Cost of living in the location (expressed as an index )
+- Yearly salary (as USD)
+- Yearly bonus (as USD)
+- Stock Offer
+- Home fund
+- Holiday
+- Intenet Stipend
+  
+When you finish entering, click on the save button to save your input. If you don't wish to save, click on the back button to exit and return to the main menu.
+
 <img width="282" alt="image" src="https://github.com/Sol2023/job_compare/assets/92194263/a8bfec46-233b-49d3-a7df-44fd532d0b3f">
 
 
